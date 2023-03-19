@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jaynob. 👋</h1>
-<h3 align="center">A passionate Software Engineer specialized in Fronted development from Bangladesh</h3>
+<h3 align="center">A passionate Software Engineer specialized in Frontend development from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaynob-binte-sayed&label=Profile%20views&color=0e75b6&style=flat" alt="jaynob-binte-sayed" /> </p>
 
